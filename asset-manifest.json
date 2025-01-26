@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.642fc444.css",
-    "main.js": "/static/js/main.523199c2.js",
-    "static/media/volunteers-posting-social-media.jpg": "/static/media/volunteers-posting-social-media.bd516f8501cc2a81ec5e.jpg",
-    "static/media/hero.jpg": "/static/media/hero.9f094056c36c07e41253.jpg",
-    "static/media/suit1.jpg": "/static/media/suit1.bfaec2a4c9264b3adb4f.jpg",
-    "static/media/suit2.png": "/static/media/suit2.a5c5cb0b7568871d83f4.png",
-    "static/media/logo.png": "/static/media/logo.fa70851178d32ba8138e.png",
-    "index.html": "/index.html",
-    "main.642fc444.css.map": "/static/css/main.642fc444.css.map",
-    "main.523199c2.js.map": "/static/js/main.523199c2.js.map"
+    "main.css": "/Project-NGO/home/static/css/main.bdb00400.css",
+    "main.js": "/Project-NGO/home/static/js/main.ccf33362.js",
+    "static/media/volunteers-posting-social-media.jpg": "/Project-NGO/home/static/media/volunteers-posting-social-media.bd516f8501cc2a81ec5e.jpg",
+    "static/media/hero.jpg": "/Project-NGO/home/static/media/hero.9f094056c36c07e41253.jpg",
+    "static/media/suit1.jpg": "/Project-NGO/home/static/media/suit1.bfaec2a4c9264b3adb4f.jpg",
+    "static/media/suit2.png": "/Project-NGO/home/static/media/suit2.a5c5cb0b7568871d83f4.png",
+    "static/media/logo.png": "/Project-NGO/home/static/media/logo.fa70851178d32ba8138e.png",
+    "index.html": "/Project-NGO/home/index.html",
+    "main.bdb00400.css.map": "/Project-NGO/home/static/css/main.bdb00400.css.map",
+    "main.ccf33362.js.map": "/Project-NGO/home/static/js/main.ccf33362.js.map"
   },
   "entrypoints": [
-    "static/css/main.642fc444.css",
-    "static/js/main.523199c2.js"
+    "static/css/main.bdb00400.css",
+    "static/js/main.ccf33362.js"
   ]
 }
