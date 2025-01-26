@@ -101,7 +101,7 @@ const About = () => {
                                 Your support can help us bring positive change to more
                                 communities around the world.
                             </Paragraph>
-                            <Button type="primary" size="large" onClick={() => navigate('/contact')}>
+                            <Button type="primary" size="large" onClick={() => navigate('/contactus')}>
                                 Donate Now
                             </Button>
                         </Card>

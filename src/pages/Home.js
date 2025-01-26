@@ -9,7 +9,7 @@ const Home = () => {
             <div className="hero-content">
                 <h1>Providing Shelter, One Suit at a Time</h1>
                 <p>Join us in our mission to help the homeless with innovative solutions.</p>
-                <Link to="/about" className="btn">Learn More</Link>
+                <Link to="/contactus" className="btn">Donate Now</Link>
             </div>
             <section id="products" className="products">
                 <h2>Our Products</h2>
