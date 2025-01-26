@@ -12,9 +12,9 @@ const ContactUs = () => {
     };
 
     const validateMessages = {
-        required: "${label} is required!",
+        required: "Field is required!",
         types: {
-            email: "${label} is not a valid email!",
+            email: "It is not a valid email!",
         },
     };
     return (
