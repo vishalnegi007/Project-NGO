@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Project-NGO/static/css/main.069e2b14.css",
-    "main.js": "/Project-NGO/static/js/main.7a8ff6bd.js",
+    "main.css": "/Project-NGO/static/css/main.d132b759.css",
+    "main.js": "/Project-NGO/static/js/main.81b7c71c.js",
+    "static/media/volunteers-posting-social-media.jpg": "/Project-NGO/static/media/volunteers-posting-social-media.bd516f8501cc2a81ec5e.jpg",
     "static/media/hero.jpg": "/Project-NGO/static/media/hero.9f094056c36c07e41253.jpg",
     "static/media/suit1.jpg": "/Project-NGO/static/media/suit1.bfaec2a4c9264b3adb4f.jpg",
     "static/media/suit2.png": "/Project-NGO/static/media/suit2.a5c5cb0b7568871d83f4.png",
     "static/media/logo.png": "/Project-NGO/static/media/logo.fa70851178d32ba8138e.png",
     "index.html": "/Project-NGO/index.html",
-    "main.069e2b14.css.map": "/Project-NGO/static/css/main.069e2b14.css.map",
-    "main.7a8ff6bd.js.map": "/Project-NGO/static/js/main.7a8ff6bd.js.map"
+    "main.d132b759.css.map": "/Project-NGO/static/css/main.d132b759.css.map",
+    "main.81b7c71c.js.map": "/Project-NGO/static/js/main.81b7c71c.js.map"
   },
   "entrypoints": [
-    "static/css/main.069e2b14.css",
-    "static/js/main.7a8ff6bd.js"
+    "static/css/main.d132b759.css",
+    "static/js/main.81b7c71c.js"
   ]
 }
